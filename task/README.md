@@ -1,6 +1,8 @@
-# TeamTaskManager
+# Hands-on task
 
-This task is designed for a Git workshop where multiple teams work on the same section of code. Each team must replace an identical placeholder block in `task.py` with an if condition that adds your team’s greeting.
+This task is designed for a Git workshop where multiple teams work on the same section of code. Each team must replace an identical placeholder block in `task.py` with an if condition that adds your team’s greeting. 
+
+The purpose of the task is to (re-)create a realistic flow in development, including merge conflicts and pull requests.
 
 ## Scenario
 
